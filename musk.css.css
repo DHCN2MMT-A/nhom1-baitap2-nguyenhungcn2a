@@ -1,0 +1,78 @@
+nav{
+            background-color:yellow;
+        }
+        nav a{
+            display:inline-block; 
+            padding:10px;
+            font-size:20px;
+            color:black;
+            text-decoration:none;
+        }
+        nav a:hover{
+            background-color:blue;
+        }
+
+img{
+    width: 300px;
+    height: 300px;
+}
+iframe{
+    width: 400px;
+    height: 400px;
+}
+h3{
+    text-align: center;
+    color: brown;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+#elon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Child{
+
+    font-family: Tahoma;
+}
+
+#ComFou{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Zip2{
+    text-align: left;
+    font-family: Tahoma;
+}
+#X{
+    text-align: left;
+    font-family: Tahoma;
+}
+#spacex{
+    text-align: left;
+    font-family: Tahoma;
+}
+#tesla{
+    text-align: left;
+    font-family: Tahoma;
+}
+#hyperloop{
+    text-align: left;
+    font-family: Tahoma;
+}
+#openai{
+    text-align: left;
+    font-family: Tahoma;
+}
+#Awards{
+    font-family: Tahoma;
+    color: blue;
+}
+#PopMedia{
+    font-family: Tahoma;
+    color: blue;
+}
